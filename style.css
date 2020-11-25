@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+}
+div.calculator{
+    background-color: honeydew;
+    margin: 0px;
+    padding: 0px;
+}
+div.calc-container{
+    justify-content: center;
+    text-align: center;
+    margin: 500px;
+    background-color: hotpink;
+    border: 2px solid black;
+}
+div.output{
+   height: 20vh;
+   border: 2px solid black;
+}
+div.input{
+    height: 30vh;
+    
+}
+div.row{
+    display: flex;
+    justify-content: center;
+   
+}
+div.row div{
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
